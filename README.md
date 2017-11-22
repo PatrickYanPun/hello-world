@@ -1,2 +1,2 @@
 # hello-world
-my first excise in github 
+my first exercise in github 
